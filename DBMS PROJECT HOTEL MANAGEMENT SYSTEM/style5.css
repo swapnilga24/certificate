@@ -1,0 +1,51 @@
+#div2{
+	text-align: left;
+	margin: 5px;
+}
+#div1{
+	margin: 0 auto;
+	border: 3px solid black;
+	width: 500px;
+}
+input [type=text]{
+	float: right;
+	width: 250px;
+}
+
+h1{
+	margin-bottom: 50px;
+	text-align: center;
+}
+div{
+	margin: 10px;
+	border-radius: 20px;
+}
+body{
+	font-family: 'Noto Serif', serif;
+	background-color:#6FE5C9;
+}
+.but{
+	text-align: center;
+}
+.container1{
+	font-size: 15px;
+	padding: 8px;
+	margin: 10px;
+}
+.container2{
+	font-size: 15px;
+	padding: 8px;
+	margin: 10px;
+}
+label{
+      display:inline-block;
+      width:200px;
+      margin-right:30px;
+      text-align:right;
+     }
+#h1{
+	width: 235px;
+}
+h1{
+	margin-top: 20px;
+}

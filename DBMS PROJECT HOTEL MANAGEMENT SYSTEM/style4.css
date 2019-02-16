@@ -1,0 +1,28 @@
+body{
+	background-color: lightgray;
+}
+
+
+h1{
+	color: blue;
+	text-align: center;
+	font: 600px;
+}
+
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+
+}
+
+.wrapper{
+	 text-align: center;
+	 margin:10% auto;
+	 font:800px;
+}
+
